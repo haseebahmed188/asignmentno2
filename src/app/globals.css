@@ -12,6 +12,7 @@ gap: 200px;
   font-size: 40px;
   align-items: center;
 }
-.item{
-  justify-content: right;
+
+.image{
+  float: right;
 }
